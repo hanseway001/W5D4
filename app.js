@@ -5,7 +5,7 @@ let navItems = $('nav, .navItem');
 
 //4) On each of the navItem elements change the color to white.
 $(navItems).css('color', 'white');
-$(navItems).css('color', 'white');
+//$(navItems).css('color', 'white');
 
 //5) Now select the element with the ID of 'nav'
 let navElem = $('#nav');
